@@ -101,6 +101,7 @@ input#nomeTarefa:hover {
 border-color: #ff00ff;
 color: #00b906;
 transform: scale(102%);
+transition: ease .3s;
 }
 
 img#fotoFundo {
